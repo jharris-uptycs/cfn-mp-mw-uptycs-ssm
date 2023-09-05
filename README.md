@@ -78,27 +78,27 @@ Select **Save**
 
     <img src='./images/uptycs-api-creds.png' width='600'>
 
-2. Place the file in the `ssm-distributor` folder.  The credentials are required by the script to 
+### Add credentials to secrets Manager
+2. Add the credentials to AWS secrets in the region where you are deploying this template.
+
+Copy the credentials file and add it to the secret as plaintext 
+
+<img src='./images/secrets.png' width='600'> 
+
+3. Place the file in the `ssm-distributor` folder.  The credentials are required by the script to 
 download the files from the Uptycs API and place them in the correct folder. 
 
 ### Create the S3 bucket to stage your files
 
 Create an S3 bucket and upload the contents of the s3bucket folder to the bucket.  
 
-
 <img src='./images/s3-bucket-folders.png' width='600'>
-
 
 Modify the bucket permissions to make the `/templates/Uptycs-State-Manager-aws-org-v3.yaml`
 public read-only.Set the public read-only permissions
     
 <img src='./images/template-public.png' width='600'>
-
-3. Add the credentials to AWS secrets in the region where you are deploying this template.
-
-Copy the credentials file and add it to the secret as plaintext 
-
-<img src='./images/secrets.png' width='600'>  
+ 
 
 
 ### Deployment
