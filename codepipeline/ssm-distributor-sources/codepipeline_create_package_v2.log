@@ -1,0 +1,325 @@
+2023-09-04 12:42:12,208: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 12:42:14,272: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /osqueryPackages, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 12:42:14,272: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /osqueryPackages, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 12:42:23,716: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 12:42:23,716: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 12:42:23,716: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 12:42:23,718: DEBUG: <class '__main__.PackageDownloadsApi'>: Calling API with /packageDownloads/osquery/windows/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&remediationPackage=true
+2023-09-04 12:42:23,718: DEBUG: <class '__main__.PackageDownloadsApi'>: Calling API with /packageDownloads/osquery/windows/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&remediationPackage=true
+2023-09-04 12:47:29,166: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 12:50:08,944: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /osqueryPackages, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 12:50:08,944: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /osqueryPackages, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 12:51:51,076: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 12:51:58,358: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /osqueryPackages, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 12:51:58,358: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /osqueryPackages, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 12:52:04,703: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 12:52:04,703: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 12:52:04,703: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 12:52:04,703: DEBUG: <class '__main__.PackageDownloadsApi'>: Calling API with /packageDownloads/osquery/windows/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&remediationPackage=true
+2023-09-04 12:52:04,703: DEBUG: <class '__main__.PackageDownloadsApi'>: Calling API with /packageDownloads/osquery/windows/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&remediationPackage=true
+2023-09-04 13:00:14,848: ERROR: <class '__main__.UptApiCall'>: Error during GET on /packageDownloads/osquery/windows/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&remediationPackage=true, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 13:00:14,848: ERROR: <class '__main__.UptApiCall'>: Error during GET on /packageDownloads/osquery/windows/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&remediationPackage=true, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 13:00:14,848: ERROR: <class '__main__.UptApiCall'>: Error during GET on /packageDownloads/osquery/windows/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&remediationPackage=true, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 13:00:14,848: ERROR: <class '__main__.UptApiCall'>: Error during GET on /packageDownloads/osquery/windows/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&remediationPackage=true, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 13:00:14,848: ERROR: <class '__main__.PackageDownloadsApi'>: Error during GET on /packageDownloads/osquery/windows/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&remediationPackage=true
+2023-09-04 13:00:14,848: ERROR: <class '__main__.PackageDownloadsApi'>: Error during GET on /packageDownloads/osquery/windows/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&remediationPackage=true
+2023-09-04 13:00:14,849: ERROR: <class '__main__.PackageDownloadsApi'>: Expecting value: line 1 column 1 (char 0)
+2023-09-04 13:00:14,849: ERROR: <class '__main__.PackageDownloadsApi'>: Expecting value: line 1 column 1 (char 0)
+2023-09-04 13:00:47,304: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 13:00:48,220: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /osqueryPackages, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 13:00:48,220: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /osqueryPackages, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 13:00:49,165: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 13:00:49,165: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 13:00:49,165: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 13:00:49,169: DEBUG: <class '__main__.PackageDownloadsApi'>: Calling API with /packageDownloads/osquery/windows/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&remediationPackage=true
+2023-09-04 13:00:49,169: DEBUG: <class '__main__.PackageDownloadsApi'>: Calling API with /packageDownloads/osquery/windows/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&remediationPackage=true
+2023-09-04 13:03:50,061: ERROR: <class '__main__.UptApiCall'>: Error during GET on /packageDownloads/osquery/windows/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&remediationPackage=true, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 13:03:50,061: ERROR: <class '__main__.UptApiCall'>: Error during GET on /packageDownloads/osquery/windows/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&remediationPackage=true, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 13:03:50,061: ERROR: <class '__main__.UptApiCall'>: Error during GET on /packageDownloads/osquery/windows/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&remediationPackage=true, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 13:03:50,061: ERROR: <class '__main__.UptApiCall'>: Error during GET on /packageDownloads/osquery/windows/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&remediationPackage=true, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 13:03:50,062: ERROR: <class '__main__.PackageDownloadsApi'>: Error during GET on /packageDownloads/osquery/windows/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&remediationPackage=true
+2023-09-04 13:03:50,062: ERROR: <class '__main__.PackageDownloadsApi'>: Error during GET on /packageDownloads/osquery/windows/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&remediationPackage=true
+2023-09-04 13:03:50,062: ERROR: <class '__main__.PackageDownloadsApi'>: Expecting value: line 1 column 1 (char 0)
+2023-09-04 13:03:50,062: ERROR: <class '__main__.PackageDownloadsApi'>: Expecting value: line 1 column 1 (char 0)
+2023-09-04 13:09:46,307: ERROR: <class '__main__.UptApiCall'>: Error during GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 13:09:46,307: ERROR: <class '__main__.UptApiCall'>: {
+    "error": {
+        "status": 401,
+        "code": "UNAUTHORIZED",
+        "message": {
+            "brief": "",
+            "detail": "Unauthorized, invalid Api Key",
+            "developer": ""
+        }
+    }
+}
+2023-09-04 13:10:52,607: ERROR: <class '__main__.UptApiCall'>: Error during GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 13:10:52,607: ERROR: <class '__main__.UptApiCall'>: {
+    "error": {
+        "status": 401,
+        "code": "UNAUTHORIZED",
+        "message": {
+            "brief": "",
+            "detail": "Unable to authenticate the request contact Uptycs",
+            "developer": ""
+        }
+    }
+}
+2023-09-04 13:11:10,718: ERROR: <class '__main__.UptApiCall'>: Error during GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 13:11:10,718: ERROR: <class '__main__.UptApiCall'>: {
+    "error": {
+        "status": 401,
+        "code": "UNAUTHORIZED",
+        "message": {
+            "brief": "",
+            "detail": "Unable to authenticate the request contact Uptycs",
+            "developer": ""
+        }
+    }
+}
+2023-09-04 13:12:07,071: ERROR: <class '__main__.UptApiCall'>: Error during GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:10:07,176: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:10:09,715: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /osqueryPackages, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:10:09,715: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /osqueryPackages, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:10:14,629: ERROR: <class '__main__.UptApiCall'>: Error during GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:10:14,629: ERROR: <class '__main__.UptApiCall'>: Error during GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:10:14,629: ERROR: <class '__main__.UptApiCall'>: Error during GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:10:14,629: ERROR: <class '__main__.UptApiCall'>: {
+    "error": {
+        "status": 401,
+        "code": "UNAUTHORIZED",
+        "message": {
+            "brief": "",
+            "detail": "Unable to authenticate the request contact Uptycs",
+            "developer": ""
+        }
+    }
+}
+2023-09-04 14:10:14,629: ERROR: <class '__main__.UptApiCall'>: {
+    "error": {
+        "status": 401,
+        "code": "UNAUTHORIZED",
+        "message": {
+            "brief": "",
+            "detail": "Unable to authenticate the request contact Uptycs",
+            "developer": ""
+        }
+    }
+}
+2023-09-04 14:10:14,629: ERROR: <class '__main__.UptApiCall'>: {
+    "error": {
+        "status": 401,
+        "code": "UNAUTHORIZED",
+        "message": {
+            "brief": "",
+            "detail": "Unable to authenticate the request contact Uptycs",
+            "developer": ""
+        }
+    }
+}
+2023-09-04 14:13:23,749: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:15:04,874: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /osqueryPackages, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:15:04,874: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /osqueryPackages, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:17:46,142: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:17:46,142: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:17:46,142: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:18:03,464: DEBUG: <class '__main__.PackageDownloadsApi'>: Calling API with /packageDownloads/osquery/windows/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&remediationPackage=true
+2023-09-04 14:18:03,464: DEBUG: <class '__main__.PackageDownloadsApi'>: Calling API with /packageDownloads/osquery/windows/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&remediationPackage=true
+2023-09-04 14:18:51,747: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /packageDownloads/osquery/windows/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&remediationPackage=true, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:18:51,747: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /packageDownloads/osquery/windows/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&remediationPackage=true, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:18:51,747: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /packageDownloads/osquery/windows/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&remediationPackage=true, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:18:51,747: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /packageDownloads/osquery/windows/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&remediationPackage=true, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:18:58,032: DEBUG: <class '__main__.PackageDownloadsApi'>: Got response 200
+2023-09-04 14:18:58,032: DEBUG: <class '__main__.PackageDownloadsApi'>: Got response 200
+2023-09-04 14:19:02,495: DEBUG: <class '__main__.PackageDownloadsApi'>: Downloading file assets-uptycs-protect-5.8.3.35-Uptycs-windows.msi
+2023-09-04 14:19:02,495: DEBUG: <class '__main__.PackageDownloadsApi'>: Downloading file assets-uptycs-protect-5.8.3.35-Uptycs-windows.msi
+2023-09-04 14:19:45,204: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:19:45,204: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:19:45,204: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:19:45,204: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:19:45,204: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:20:02,480: DEBUG: <class '__main__.PackageDownloadsApi'>: Calling API with /packageDownloads/osquery/centos/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&remediationPackage=true
+2023-09-04 14:20:02,480: DEBUG: <class '__main__.PackageDownloadsApi'>: Calling API with /packageDownloads/osquery/centos/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&remediationPackage=true
+2023-09-04 14:20:02,480: DEBUG: <class '__main__.PackageDownloadsApi'>: Calling API with /packageDownloads/osquery/centos/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&remediationPackage=true
+2023-09-04 14:21:43,040: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /packageDownloads/osquery/centos/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&remediationPackage=true, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:21:43,040: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /packageDownloads/osquery/centos/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&remediationPackage=true, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:21:43,040: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /packageDownloads/osquery/centos/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&remediationPackage=true, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:21:43,040: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /packageDownloads/osquery/centos/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&remediationPackage=true, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:21:43,040: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /packageDownloads/osquery/centos/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&remediationPackage=true, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:21:43,040: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /packageDownloads/osquery/centos/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&remediationPackage=true, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:21:54,562: DEBUG: <class '__main__.PackageDownloadsApi'>: Got response 200
+2023-09-04 14:21:54,562: DEBUG: <class '__main__.PackageDownloadsApi'>: Got response 200
+2023-09-04 14:21:54,562: DEBUG: <class '__main__.PackageDownloadsApi'>: Got response 200
+2023-09-04 14:21:57,281: DEBUG: <class '__main__.PackageDownloadsApi'>: Downloading file assets-uptycs-protect-5.8.3.35-Uptycs.rpm
+2023-09-04 14:21:57,281: DEBUG: <class '__main__.PackageDownloadsApi'>: Downloading file assets-uptycs-protect-5.8.3.35-Uptycs.rpm
+2023-09-04 14:21:57,281: DEBUG: <class '__main__.PackageDownloadsApi'>: Downloading file assets-uptycs-protect-5.8.3.35-Uptycs.rpm
+2023-09-04 14:24:49,804: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:24:50,890: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /osqueryPackages, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:24:50,890: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /osqueryPackages, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:24:55,130: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:24:55,130: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:24:55,130: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:24:55,135: DEBUG: <class '__main__.PackageDownloadsApi'>: Calling API with /packageDownloads/osquery/windows/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&remediationPackage=true
+2023-09-04 14:24:55,135: DEBUG: <class '__main__.PackageDownloadsApi'>: Calling API with /packageDownloads/osquery/windows/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&remediationPackage=true
+2023-09-04 14:25:13,409: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /packageDownloads/osquery/windows/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&remediationPackage=true, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:25:13,409: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /packageDownloads/osquery/windows/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&remediationPackage=true, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:25:13,409: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /packageDownloads/osquery/windows/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&remediationPackage=true, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:25:13,409: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /packageDownloads/osquery/windows/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&remediationPackage=true, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:25:13,410: DEBUG: <class '__main__.PackageDownloadsApi'>: Got response 200
+2023-09-04 14:25:13,410: DEBUG: <class '__main__.PackageDownloadsApi'>: Got response 200
+2023-09-04 14:25:13,410: DEBUG: <class '__main__.PackageDownloadsApi'>: Downloading file assets-uptycs-protect-5.8.3.35-Uptycs-windows.msi
+2023-09-04 14:25:13,410: DEBUG: <class '__main__.PackageDownloadsApi'>: Downloading file assets-uptycs-protect-5.8.3.35-Uptycs-windows.msi
+2023-09-04 14:25:17,966: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:25:17,966: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:25:17,966: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:25:17,966: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:25:17,966: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:25:17,969: DEBUG: <class '__main__.PackageDownloadsApi'>: Calling API with /packageDownloads/osquery/centos/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&remediationPackage=true
+2023-09-04 14:25:17,969: DEBUG: <class '__main__.PackageDownloadsApi'>: Calling API with /packageDownloads/osquery/centos/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&remediationPackage=true
+2023-09-04 14:25:17,969: DEBUG: <class '__main__.PackageDownloadsApi'>: Calling API with /packageDownloads/osquery/centos/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&remediationPackage=true
+2023-09-04 14:25:28,724: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /packageDownloads/osquery/centos/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&remediationPackage=true, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:25:28,724: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /packageDownloads/osquery/centos/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&remediationPackage=true, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:25:28,724: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /packageDownloads/osquery/centos/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&remediationPackage=true, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:25:28,724: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /packageDownloads/osquery/centos/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&remediationPackage=true, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:25:28,724: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /packageDownloads/osquery/centos/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&remediationPackage=true, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:25:28,724: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /packageDownloads/osquery/centos/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&remediationPackage=true, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:25:28,724: DEBUG: <class '__main__.PackageDownloadsApi'>: Got response 200
+2023-09-04 14:25:28,724: DEBUG: <class '__main__.PackageDownloadsApi'>: Got response 200
+2023-09-04 14:25:28,724: DEBUG: <class '__main__.PackageDownloadsApi'>: Got response 200
+2023-09-04 14:25:28,724: DEBUG: <class '__main__.PackageDownloadsApi'>: Downloading file assets-uptycs-protect-5.8.3.35-Uptycs.rpm
+2023-09-04 14:25:28,724: DEBUG: <class '__main__.PackageDownloadsApi'>: Downloading file assets-uptycs-protect-5.8.3.35-Uptycs.rpm
+2023-09-04 14:25:28,724: DEBUG: <class '__main__.PackageDownloadsApi'>: Downloading file assets-uptycs-protect-5.8.3.35-Uptycs.rpm
+2023-09-04 14:25:32,401: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:25:32,401: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:25:32,401: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:25:32,401: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:25:32,401: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:25:32,401: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:25:32,401: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:25:32,402: DEBUG: <class '__main__.PackageDownloadsApi'>: Calling API with /packageDownloads/osquery/centos/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&gravitonPackage=true&remediationPackage=true
+2023-09-04 14:25:32,402: DEBUG: <class '__main__.PackageDownloadsApi'>: Calling API with /packageDownloads/osquery/centos/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&gravitonPackage=true&remediationPackage=true
+2023-09-04 14:25:32,402: DEBUG: <class '__main__.PackageDownloadsApi'>: Calling API with /packageDownloads/osquery/centos/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&gravitonPackage=true&remediationPackage=true
+2023-09-04 14:25:32,402: DEBUG: <class '__main__.PackageDownloadsApi'>: Calling API with /packageDownloads/osquery/centos/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&gravitonPackage=true&remediationPackage=true
+2023-09-04 14:25:52,458: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /packageDownloads/osquery/centos/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&gravitonPackage=true&remediationPackage=true, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:25:52,458: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /packageDownloads/osquery/centos/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&gravitonPackage=true&remediationPackage=true, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:25:52,458: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /packageDownloads/osquery/centos/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&gravitonPackage=true&remediationPackage=true, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:25:52,458: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /packageDownloads/osquery/centos/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&gravitonPackage=true&remediationPackage=true, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:25:52,458: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /packageDownloads/osquery/centos/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&gravitonPackage=true&remediationPackage=true, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:25:52,458: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /packageDownloads/osquery/centos/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&gravitonPackage=true&remediationPackage=true, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:25:52,458: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /packageDownloads/osquery/centos/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&gravitonPackage=true&remediationPackage=true, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:25:52,458: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /packageDownloads/osquery/centos/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&gravitonPackage=true&remediationPackage=true, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:25:52,459: DEBUG: <class '__main__.PackageDownloadsApi'>: Got response 200
+2023-09-04 14:25:52,459: DEBUG: <class '__main__.PackageDownloadsApi'>: Got response 200
+2023-09-04 14:25:52,459: DEBUG: <class '__main__.PackageDownloadsApi'>: Got response 200
+2023-09-04 14:25:52,459: DEBUG: <class '__main__.PackageDownloadsApi'>: Got response 200
+2023-09-04 14:25:52,459: DEBUG: <class '__main__.PackageDownloadsApi'>: Downloading file assets-uptycs-protect-5.8.3.35-Uptycs.aarch64.rpm
+2023-09-04 14:25:52,459: DEBUG: <class '__main__.PackageDownloadsApi'>: Downloading file assets-uptycs-protect-5.8.3.35-Uptycs.aarch64.rpm
+2023-09-04 14:25:52,459: DEBUG: <class '__main__.PackageDownloadsApi'>: Downloading file assets-uptycs-protect-5.8.3.35-Uptycs.aarch64.rpm
+2023-09-04 14:25:52,459: DEBUG: <class '__main__.PackageDownloadsApi'>: Downloading file assets-uptycs-protect-5.8.3.35-Uptycs.aarch64.rpm
+2023-09-04 14:25:55,751: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:25:55,751: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:25:55,751: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:25:55,751: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:25:55,751: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:25:55,751: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:25:55,751: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:25:55,751: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:25:55,751: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:25:55,755: DEBUG: <class '__main__.PackageDownloadsApi'>: Calling API with /packageDownloads/osquery/debian/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&remediationPackage=true
+2023-09-04 14:25:55,755: DEBUG: <class '__main__.PackageDownloadsApi'>: Calling API with /packageDownloads/osquery/debian/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&remediationPackage=true
+2023-09-04 14:25:55,755: DEBUG: <class '__main__.PackageDownloadsApi'>: Calling API with /packageDownloads/osquery/debian/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&remediationPackage=true
+2023-09-04 14:25:55,755: DEBUG: <class '__main__.PackageDownloadsApi'>: Calling API with /packageDownloads/osquery/debian/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&remediationPackage=true
+2023-09-04 14:25:55,755: DEBUG: <class '__main__.PackageDownloadsApi'>: Calling API with /packageDownloads/osquery/debian/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&remediationPackage=true
+2023-09-04 14:26:17,737: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /packageDownloads/osquery/debian/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&remediationPackage=true, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:26:17,737: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /packageDownloads/osquery/debian/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&remediationPackage=true, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:26:17,737: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /packageDownloads/osquery/debian/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&remediationPackage=true, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:26:17,737: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /packageDownloads/osquery/debian/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&remediationPackage=true, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:26:17,737: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /packageDownloads/osquery/debian/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&remediationPackage=true, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:26:17,737: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /packageDownloads/osquery/debian/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&remediationPackage=true, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:26:17,737: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /packageDownloads/osquery/debian/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&remediationPackage=true, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:26:17,737: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /packageDownloads/osquery/debian/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&remediationPackage=true, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:26:17,737: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /packageDownloads/osquery/debian/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&remediationPackage=true, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:26:17,737: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /packageDownloads/osquery/debian/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&remediationPackage=true, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:26:17,738: DEBUG: <class '__main__.PackageDownloadsApi'>: Got response 200
+2023-09-04 14:26:17,738: DEBUG: <class '__main__.PackageDownloadsApi'>: Got response 200
+2023-09-04 14:26:17,738: DEBUG: <class '__main__.PackageDownloadsApi'>: Got response 200
+2023-09-04 14:26:17,738: DEBUG: <class '__main__.PackageDownloadsApi'>: Got response 200
+2023-09-04 14:26:17,738: DEBUG: <class '__main__.PackageDownloadsApi'>: Got response 200
+2023-09-04 14:26:17,738: DEBUG: <class '__main__.PackageDownloadsApi'>: Downloading file assets-uptycs-protect-5.8.3.35-Uptycs.deb
+2023-09-04 14:26:17,738: DEBUG: <class '__main__.PackageDownloadsApi'>: Downloading file assets-uptycs-protect-5.8.3.35-Uptycs.deb
+2023-09-04 14:26:17,738: DEBUG: <class '__main__.PackageDownloadsApi'>: Downloading file assets-uptycs-protect-5.8.3.35-Uptycs.deb
+2023-09-04 14:26:17,738: DEBUG: <class '__main__.PackageDownloadsApi'>: Downloading file assets-uptycs-protect-5.8.3.35-Uptycs.deb
+2023-09-04 14:26:17,738: DEBUG: <class '__main__.PackageDownloadsApi'>: Downloading file assets-uptycs-protect-5.8.3.35-Uptycs.deb
+2023-09-04 14:26:20,942: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:26:20,942: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:26:20,942: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:26:20,942: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:26:20,942: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:26:20,942: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:26:20,942: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:26:20,942: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:26:20,942: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:26:20,942: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:26:20,942: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:26:20,946: DEBUG: <class '__main__.PackageDownloadsApi'>: Calling API with /packageDownloads/osquery/debian/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&gravitonPackage=true&remediationPackage=true
+2023-09-04 14:26:20,946: DEBUG: <class '__main__.PackageDownloadsApi'>: Calling API with /packageDownloads/osquery/debian/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&gravitonPackage=true&remediationPackage=true
+2023-09-04 14:26:20,946: DEBUG: <class '__main__.PackageDownloadsApi'>: Calling API with /packageDownloads/osquery/debian/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&gravitonPackage=true&remediationPackage=true
+2023-09-04 14:26:20,946: DEBUG: <class '__main__.PackageDownloadsApi'>: Calling API with /packageDownloads/osquery/debian/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&gravitonPackage=true&remediationPackage=true
+2023-09-04 14:26:20,946: DEBUG: <class '__main__.PackageDownloadsApi'>: Calling API with /packageDownloads/osquery/debian/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&gravitonPackage=true&remediationPackage=true
+2023-09-04 14:26:20,946: DEBUG: <class '__main__.PackageDownloadsApi'>: Calling API with /packageDownloads/osquery/debian/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&gravitonPackage=true&remediationPackage=true
+2023-09-04 14:26:40,672: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /packageDownloads/osquery/debian/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&gravitonPackage=true&remediationPackage=true, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:26:40,672: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /packageDownloads/osquery/debian/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&gravitonPackage=true&remediationPackage=true, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:26:40,672: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /packageDownloads/osquery/debian/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&gravitonPackage=true&remediationPackage=true, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:26:40,672: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /packageDownloads/osquery/debian/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&gravitonPackage=true&remediationPackage=true, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:26:40,672: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /packageDownloads/osquery/debian/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&gravitonPackage=true&remediationPackage=true, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:26:40,672: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /packageDownloads/osquery/debian/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&gravitonPackage=true&remediationPackage=true, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:26:40,672: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /packageDownloads/osquery/debian/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&gravitonPackage=true&remediationPackage=true, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:26:40,672: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /packageDownloads/osquery/debian/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&gravitonPackage=true&remediationPackage=true, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:26:40,672: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /packageDownloads/osquery/debian/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&gravitonPackage=true&remediationPackage=true, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:26:40,672: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /packageDownloads/osquery/debian/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&gravitonPackage=true&remediationPackage=true, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:26:40,672: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /packageDownloads/osquery/debian/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&gravitonPackage=true&remediationPackage=true, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:26:40,672: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /packageDownloads/osquery/debian/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&gravitonPackage=true&remediationPackage=true, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:26:40,673: DEBUG: <class '__main__.PackageDownloadsApi'>: Got response 200
+2023-09-04 14:26:40,673: DEBUG: <class '__main__.PackageDownloadsApi'>: Got response 200
+2023-09-04 14:26:40,673: DEBUG: <class '__main__.PackageDownloadsApi'>: Got response 200
+2023-09-04 14:26:40,673: DEBUG: <class '__main__.PackageDownloadsApi'>: Got response 200
+2023-09-04 14:26:40,673: DEBUG: <class '__main__.PackageDownloadsApi'>: Got response 200
+2023-09-04 14:26:40,673: DEBUG: <class '__main__.PackageDownloadsApi'>: Got response 200
+2023-09-04 14:26:40,673: DEBUG: <class '__main__.PackageDownloadsApi'>: Downloading file assets-uptycs-protect-5.8.3.35-Uptycs.arm64.deb
+2023-09-04 14:26:40,673: DEBUG: <class '__main__.PackageDownloadsApi'>: Downloading file assets-uptycs-protect-5.8.3.35-Uptycs.arm64.deb
+2023-09-04 14:26:40,673: DEBUG: <class '__main__.PackageDownloadsApi'>: Downloading file assets-uptycs-protect-5.8.3.35-Uptycs.arm64.deb
+2023-09-04 14:26:40,673: DEBUG: <class '__main__.PackageDownloadsApi'>: Downloading file assets-uptycs-protect-5.8.3.35-Uptycs.arm64.deb
+2023-09-04 14:26:40,673: DEBUG: <class '__main__.PackageDownloadsApi'>: Downloading file assets-uptycs-protect-5.8.3.35-Uptycs.arm64.deb
+2023-09-04 14:26:40,673: DEBUG: <class '__main__.PackageDownloadsApi'>: Downloading file assets-uptycs-protect-5.8.3.35-Uptycs.arm64.deb
+2023-09-04 14:44:31,291: ERROR: <class '__main__.UptApiCall'>: Error during GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:44:31,292: ERROR: <class '__main__.UptApiCall'>: {
+    "error": {
+        "status": 401,
+        "code": "UNAUTHORIZED",
+        "message": {
+            "brief": "",
+            "detail": "Unable to authenticate the request contact Uptycs",
+            "developer": ""
+        }
+    }
+}
+2023-09-04 14:44:50,565: ERROR: <class '__main__.UptApiCall'>: Error during GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:44:50,566: ERROR: <class '__main__.UptApiCall'>: {
+    "error": {
+        "status": 401,
+        "code": "UNAUTHORIZED",
+        "message": {
+            "brief": "",
+            "detail": "Unable to authenticate the request contact Uptycs",
+            "developer": ""
+        }
+    }
+}
+2023-09-04 14:57:49,672: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:57:50,567: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /osqueryPackages, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:57:50,567: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /osqueryPackages, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:57:51,437: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:57:51,437: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:57:51,437: DEBUG: <class '__main__.UptApiCall'>: Success with GET on /objectGroups, base url: https://cloudint.uptycs.io/public/api/customers/3673a4d8-99d2-4d69-a784-858cdfd7fdb7
+2023-09-04 14:57:51,439: DEBUG: <class '__main__.PackageDownloadsApi'>: Calling API with /packageDownloads/osquery/windows/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&remediationPackage=true
+2023-09-04 14:57:51,439: DEBUG: <class '__main__.PackageDownloadsApi'>: Calling API with /packageDownloads/osquery/windows/865655c5-3fe8-4009-a23f-65af27a8ec07?osqVersion=5.8.3.35&remediationPackage=true
