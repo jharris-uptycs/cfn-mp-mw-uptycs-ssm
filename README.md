@@ -94,6 +94,12 @@ public read-only.Set the public read-only permissions
     
 <img src='./images/template-public.png' width='600'>
 
+3. Add the credentials to AWS secrets in the region where you are deploying this template.
+
+Copy the credentials file and add it to the secret as plaintext 
+
+<img src='./images/secrets.png' width='600'>  
+
 
 ### Deployment
 
@@ -118,28 +124,24 @@ To deploy this stack using the AWS console, follow the procedure below.
 The CloudFormation template takes the following parameters
 
 
-| Parameter Name            | Description                                                                                                                                               |
-|---------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| UptycsTemplateName        | The name of the Uptycs primary account template                                                                                                           |
+| Parameter Name            | Description                                                                                                                                                    |
+|---------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| UptycsTemplateName        | The name of the Uptycs primary account template                                                                                                                |
 | EnableAllRegions          | Allowed Values true false. Set to true to enable or regions or false and specify a region list in Enabled regions                                        <br/> |
-| EnabledRegions            | Add a list of regions if you have set EnableAllRegions to False.                                                                                          |
-| ComplianceSeverity        | The Severity to apply to the State Manager Alert                                                                                                          |
-| UptycsAgentTargetKey      | Value of the Tag Key used to define the automation target                                                                                                 |
-| UptycsAgentTargetValue    | Value of the Tag Value used to define the automation target                                                                                               |
-| AdministrationRoleArn     | Existing Stackset Administration Role ARN. For example ControlTower uses arn:aws:iam::<accountId>:role/service-role/AWSControlTowerStackSetRole           |
-| ExecutionRoleName         | Existing Stackset Execution Role Name. For example ControlTower uses AWSControlTowerExecution                                                             |
-| UptycsKeysParameterStoreName | Uptycs API Key Parameter Store Name                                                                                                                       |
-| UptycsAPIKey              | Uptycs API Key                                                                                                                                            |
-| UptycsSecret              | Uptycs API Secret                                                                                                                                         |
-| UptycsCustomerId          | Uptycs API CustomerId                                                                                                                                     |
-| UptycsDomain              | Uptycs Domain                                                                                                                                             |
-| RepositoryName            | CodeCommit Repository for Uptycs CloudFormation templates                                                                                                 |
-| RepositoryDescription     | CodeCommit repository description                                                                                                                         |
-| BranchName                | Branch in the CodeCommit Repository for Uptycs CloudFormation templates                                                                                   |
-| UptycsSsmPackageBucket    | Prefix for the S3 Staging Bucket that stages the code copied from code commit                                                                             |
-| S3CodeBucketName          | Name of the S3 bucket with the initial commit of code                                                                                                     |
-| S3Prefix                  | Prefix for file path                                                                                                                                      |
-| S3CodeBucketKey           | Key of the S3 bucket with the initial commit of code                                                                                                      |
+| EnabledRegions            | Add a list of regions if you have set EnableAllRegions to False.                                                                                               |
+| ComplianceSeverity        | The Severity to apply to the State Manager Alert                                                                                                               |
+| UptycsAgentTargetKey      | Value of the Tag Key used to define the automation target                                                                                                      |
+| UptycsAgentTargetValue    | Value of the Tag Value used to define the automation target                                                                                                    |
+| AdministrationRoleArn     | Existing Stackset Administration Role ARN. For example ControlTower uses arn:aws:iam::<accountId>:role/service-role/AWSControlTowerStackSetRole                |
+| ExecutionRoleName         | Existing Stackset Execution Role Name. For example ControlTower uses AWSControlTowerExecution                                                                  |                                                                                                                                         |
+| UptycsAPISecretArn        | Api Credentials secret                                                                                                                                         |
+| RepositoryName            | CodeCommit Repository for Uptycs CloudFormation templates                                                                                                      |
+| RepositoryDescription     | CodeCommit repository description                                                                                                                              |
+| BranchName                | Branch in the CodeCommit Repository for Uptycs CloudFormation templates                                                                                        |
+| UptycsSsmPackageBucket    | Prefix for the S3 Staging Bucket that stages the code copied from code commit                                                                                  |
+| S3CodeBucketName          | Name of the S3 bucket with the initial commit of code                                                                                                          |
+| S3Prefix                  | Prefix for file path                                                                                                                                           |
+| S3CodeBucketKey           | Key of the S3 bucket with the initial commit of code                                                                                                           |
 
 
 
